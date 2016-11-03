@@ -13,8 +13,8 @@ class Home extends React.Component{
         		<h1>Simple React App</h1>
         		<ul className="header">
           			<li><IndexLink to="/" activeClassName="active">Home</IndexLink></li>
-          			<li><Link to="/stuff" activeClassName="active">Stuff</Link></li>
-          			<li><Link to="/contact" activeClassName="active">Contact</Link></li>
+          			<li><Link to="/stuff" activeClassName="active">Posts</Link></li>
+          			<li><Link to="/contact" activeClassName="active">Contact US</Link></li>
         		</ul>
        			<div className="content">
             		{this.props.children}

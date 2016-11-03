@@ -8,7 +8,7 @@ class StuffPost extends React.Component{
 		return(
 
 			<div>
-	          <h2>HELLO</h2>
+	          <h2>Post whatever you like</h2>
 	          <p>Cras facilisis urna ornare ex volutpat, et
 	          convallis erat elementum. Ut aliquam, ipsum vitae
 	          gravida suscipit</p>
